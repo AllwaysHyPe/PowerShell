@@ -30,9 +30,9 @@ function New-Function {
         New-Function -Name "Get-Demo" -Synopsis "Get a demo." -Description "This function gets a demo." -Alias "Get-Sample"
 
         .NOTES
-        Author: Sam Erde
+        Author: Hailey Phillips
         Version: 0.0.1
-        Modified: 2024-07-02
+        Modified: 2025-07-23
     #>
 
     [CmdletBinding()]
