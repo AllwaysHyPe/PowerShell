@@ -122,7 +122,7 @@ function New-Function {
         __EXAMPLE__
 
         .NOTES
-        Author: Sam Erde
+        Author: Hailey Phillips
         Version: 0.0.1
         Modified: __DATE__
     #>
